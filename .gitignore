@@ -1,0 +1,15 @@
+
+# ++ syncing plugins didn't work ++
+# 1. fIT (the plugin I use on mobile) don't use .gitignore
+# 2. obsidian won't mark plugins as installed if not installed via install button in-app
+# anyways, this is data about the project history, I'll keep it on the repo
+
+#.obsidian to exclude installed plugins + device specific config
+#reason: security with Git syncing plugins, bloat with installed+disabled
+#exclude contents
+
+
+#don't remember where theese from
+.trash/
+.DS_Store
+**/.~lock.*
