@@ -1,0 +1,21 @@
+Captains Log, Star Date 60017
+I have just taken command of the newly christened USS Dunedin. 
+My first officer, Commander Ju Lang on the other hand has served in this role for an extended period of time, the reason for which she has never divulged. I suppose, now that chosen her I may have to inquire officially.
+
+I have additionally requested Dr. Saajid el-Shaer as the ships Envoy and Dr. Tlalli Tecuatl as my Chief Medical officer. 
+The Ships Counselor Dr. Rudolf Freilich, as well as Tactical Officer Commander Yuliana Da-Xia have requested this posting. Both of which I have acquiesced due to their outstanding service record.
+
+The Engineering team unfortunately came with the ship, or perhaps fortunately, as my Lead Engineer, Leenane Ní Fuaráin, is also the designer of the ships experimental Warp-Shield core. I must admit I would have preferred a conventional, sectioned shield emitter array due to the downtime necessary to modify the emitter. Ní Fuaráins assurances don't quite put me, personally, at ease. She does admit that this is the specific reason for field tests, but is adamant that the gap will not be exploitable by any known threat.
+
+Including their compliments, a total of 112 persons have been transferred to the Dunedin. Holding 134 quarters for regular crew and visitors, I believe to be well within our tolerances.
+
+Our first mission will be to transport two medical support modules with a crew od approximately 100 head each to the Pincoya system. There they will provide medical support and importantly a neutral ground for peace negotiations between Pincoya Cs native population and their newly unified astroid mining colonies.
+
+
+Captains Log, Star Date 60018
+Were en route to deliver medical support to the Pincoya system.
+While I am not surprised that the Dunedin would be chosen for this transport, I don't quite like the idea it either. Pincoya remains a system at war and we are a transport.
+
+The preparation for this environment will however offer us a reason to get acquainted with this ships experimental feature. Truth is, I do not believe in the efficacy of a combined warp-shield system, despite the practically infinite shield capacity it provides. The engineering team sees this quite different and, truthfully, so does my tactical officer. Both believe that this system can be revolutionary, given, of course, the downtime between shield and warp is tactically irrelevant.
+To assure that, I have scheduled several brief stops between systems. A choice neither my diplomatic colleagues, nor the medical personel support for obvious reason. Nevertheless, it is my duty to assure the safety of my ship and I will do that at any cost.
+
