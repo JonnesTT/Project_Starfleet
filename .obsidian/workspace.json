@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/1. Explorative 2 - Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Explorative 2 - Practice"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/1. Explorative 2 - Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Explorative 2 - Practice"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/1. Explorative 2 - Practice.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Explorative 2 - Practice"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -194,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04e26e6d37bd5819",
+  "active": "00f4b9a14f57b221",
   "lastOpenFiles": [
-    "World-Building/Crew of the Dunedin/Chief Officers/Tactical Officer Da-Xia.md",
     "Stories/1. Explorative 2 - Practice.md",
+    "conflict-files-obsidian-git.md",
+    "World-Building/Crew of the Dunedin/Chief Officers/Tactical Officer Da-Xia.md",
     "World-Building/Crew of the Dunedin/Chief Officers/Lead Engineer Ní Fuaráin.md",
     "World-Building/Crew of the Dunedin/Chief Officers/Ships Councelor Dr. Freilich.md",
     "World-Building/Exploratives/Explorative 1 Starfleet.md"
