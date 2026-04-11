@@ -6,8 +6,7 @@
 
 #.obsidian to exclude installed plugins + device specific config
 #reason: security with Git syncing plugins, bloat with installed+disabled
-#exclude contents
-
+.obsidian 
 
 #don't remember where theese from
 .trash/
