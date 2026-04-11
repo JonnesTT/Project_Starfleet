@@ -1,0 +1,2 @@
+Very simple warp drive based on the work of Alcubierre. Projects a shell of Virtual Mass in front and Virtual Anti-Mass behind the ship. This imparts a nearly laminar directionality of spacetime into the space inside the bubble. Ergo the ship accelerates.
+Notably, this does not feel like acceleration and looks nothing like trek. I'll have to write a story about that too.
