@@ -1,0 +1,3 @@
+Electron-Positron-Annihilation Drives are highly efficient ion drives utilising both the Electron-Potential Grids most ships use as energy transport technology, as well as the Positron containment necessitated by the use of the [[Higgs Split Engine]] for energy storage.
+
+This makes it a common engine on smaller ships. The high production of gamma radiation in it's exhaust sees it's use minimised however.
