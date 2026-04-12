@@ -8,3 +8,5 @@
 | Gender              | Male                                                                                     |
 | Representation      | Human Male, Strictly Respects uniform code with the exception of a single golden Earring |
 | Cultural Background | Central European, German                                                                 |
+| Familiar Background |                                                                                          |
+| Hobbies             | Paints pictures of stellar formations encountered by the ship                            |
