@@ -17,7 +17,7 @@ Some questions I can ask myself:
 	- Lowball here: Energy Storage
 	- Somewhat low ball: Exotic Matter
 	- "Authentic" craftsmanship
-	- certain raw materials. For example if the replicators need atoms/molecules on storage to "assemble" stuff?
+	- certain raw materials. For example, if the replicators need atoms/molecules on storage to "assemble" stuff?
 	- highly complex materials?
 		- computation material? 
 		- Phazor cristals?
