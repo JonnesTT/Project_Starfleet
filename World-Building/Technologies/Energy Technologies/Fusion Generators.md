@@ -1,4 +1,4 @@
-By the 26th century, Fusion generators are a well researched technology, so much so that hot hydrogen fusers are commonly used as emergency generators. Most famously most [[Replicator]] installations hold an autonomous fusion unit capable of fusing materials the [[Replicator]] requires as well as generate energy from Hydrogen to Helium Fusion in emergencies.
+By the 26th century, Fusion generators are a well researched technology, so much so that hot hydrogen fusers are commonly used in emergency generators. Most famously, most [[Replicator]] installations hold an autonomous fusion unit capable of fusing all atoms a household is likely to require as well as generate energy from Hydrogen to Helium Fusion in emergencies.
 
 # Cold Fusion Cells
 Cold fusion cells, reliant on super-compacted crystal structures are also used as common energy cells. These are however not easily rechargeable as the pressure provided by the crystal lattice cannot easily be counteracted at a scale which would allow tritium diffusion between them. Nor can they be produced by [[Replicator]]s alone.
