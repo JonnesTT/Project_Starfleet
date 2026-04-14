@@ -1,4 +1,4 @@
-
+Da-Xias chosen profession is the tactical decision making in active combat scenarios. Weather on foot or on board she knows which of the armament is most effective against any enemy as well as which approaches to take in actively hostile environments.
 
 | Marker              | Entry                       |
 | ------------------- | --------------------------- |
