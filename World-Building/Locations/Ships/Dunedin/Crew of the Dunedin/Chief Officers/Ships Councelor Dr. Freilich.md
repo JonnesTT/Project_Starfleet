@@ -1,3 +1,4 @@
+Dr. Freilich chooses to serve his people in the upkeep of mental well being. That includes, naturally, the therapy and ideally treatment of psychological difficulties. But it does also include preemptive treatments such as counseling on decisions which may lead to future distress, regular mental checkups and the setup of support networks.
 
 | Marker              | Entry                                                                                    |
 | ------------------- | ---------------------------------------------------------------------------------------- |
