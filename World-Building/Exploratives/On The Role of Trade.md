@@ -1,4 +1,4 @@
-As I seem to find myself in defence of individual trade in [[2. Explorative 3 The Role of Trade]], I find myself in the need to explore the idea itself.
+As I seem to find myself in defence of individual trade in [[2. Explorative 3 The Role of Trade 1]], I find myself in the need to explore the idea itself.
 
 For yes, trade, is one of the currently most abundant systems of optimisation of the actions of persons in the west. And it unavoidably at fault for either the whole of, or an increase in the harm done by almost any of the issues facing the western world and it's cultural and economic satellites today.
 
