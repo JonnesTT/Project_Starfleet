@@ -14,3 +14,6 @@ As such, Ju commonly leads off-ship missions that are not combat focused.
 | Gender              | Female                                         |
 | Presentation        | Feminie, Strictly adheres to Uniform Standards |
 | Cultural Background | Chinese, Coastal                               |
+# Personality
+- Practically an author
+  Loves to watch drama, less so to be involved in it. Had she not joined the military core, she might never have learned the coping mechanism of imagining the faces of her colleagues when she told them.
