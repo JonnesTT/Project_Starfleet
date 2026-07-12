@@ -12,6 +12,6 @@ This was a compromise reached between Federation Envoys, who wished to utilise t
 The embargo still allowed the station to intervene in any injuries or cases of sickness struck to the local civilian population. Some of the Envoys have gone on record that they hope this restricted support may discourage further hostilities.
 
 # Technology 
-During the visit of the Dunedin on [[1. Explorative 2 - Practice|Star Date 60017]], the inhabitants displayed sublight capabilities as well as capabilities to produce artificial life support with minimal resupply.
-On [[1. Explorative 2 - Practice#Councelor Log, Star Date 60030|Stardate 60030]], the ships engineer also uncovered that their weapon systems are largely based on simple photonic and gravitonic wave emitters as used by lasers and tractor beams.
+During the visit of the Dunedin on [[1. Practice|Star Date 60017]], the inhabitants displayed sublight capabilities as well as capabilities to produce artificial life support with minimal resupply.
+On [[1. Practice#Councelor Log, Star Date 60030|Stardate 60030]], the ships engineer also uncovered that their weapon systems are largely based on simple photonic and gravitonic wave emitters as used by lasers and tractor beams.
 A notable divide seems to be between the warring parties in that the Planetary Faction utilised adaptive technologies to increase the combat effectiveness of their weaponry. Militant Cells among the Asteroid Miners on contrast largely rely on modified mining equipment and old school kinetic strikes.
