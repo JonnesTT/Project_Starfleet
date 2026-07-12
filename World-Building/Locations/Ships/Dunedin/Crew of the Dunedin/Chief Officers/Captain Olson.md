@@ -11,3 +11,11 @@ His tools for this purpose are in large parts the crew themselves, as well as th
 | Presentation        | Male              |
 | Cultural Background | Canadian, English |
 | Family Background   |                   |
+
+# Personality
+- Is a documentatarian.
+  Will read any mission relevant documentation provided and demand documentation on any discoveries
+- interested in socioeconomic history of systems
+  While the baseline of this is a necessity skill, Olson enjoys extrapolating on each system he visits
+- callname: Stickup
+  There are two kinds of military people. Those who will indulge their whims with abandon if given the chance and those who find comfort in the rigor

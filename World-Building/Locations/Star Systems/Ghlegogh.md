@@ -1,1 +1,1 @@
-On [[2. Explorative 3 The Role of Trade 1|Stardate 60068]] Ghlegogh was introduced as a manufacturer of Sub-Plank Wafers used in advanced computation.
+On [[2. Explorative 3 - The Role of Trade|Stardate 60068]] Ghlegogh was introduced as a manufacturer of Sub-Plank Wafers used in advanced computation.

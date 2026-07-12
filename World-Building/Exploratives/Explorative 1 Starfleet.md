@@ -10,7 +10,7 @@ The purpose of the Diplomatic core is to foster peace and free exchange of infor
 Bellow them serve 
 - Generals, whose primary duty is the upkeep and coordination of the fleet (aka logistics) in both peaceful and hostile action
 - Colonialists, who keep both spaceborn and planetary habitats including any and all drydocks of the fleet
-- Scholars, compiling, maintain and disseminate reposatories of knowledge in several mediums and through several channels
+- Scholars, compiling, maintain and disseminate repositories of knowledge in several mediums and through several channels
 
 
 Notably is that each branch is dependant on each other branch. That is by design to hinder the spontaneous formation unilateral authority. Thus, Generals must rely on Colonialists for resources and drydocks and on scholars for the training of technical personnel. Colonialists rely on Generals for the bulk of logistical and humanitarian support. Scholars meanwhile rely on Generals for transport and Colonialists for their accommodations.

@@ -1,0 +1,1 @@
+Established in the middle of the 22ce, Manufactura is the project of a reclusive, yet to be named Supply Chain Engineer. It was sponsored by the Colonists Division for both a rough plan to source resources in situ and the ongoing eccentrics of the engineer in question.

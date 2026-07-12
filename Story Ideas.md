@@ -26,3 +26,12 @@ Some questions I can ask myself:
 
 # The Alcubierre Experience
 Basically just showing how the outside of a ship would feel while the [[Warp Drive]] is active.
+
+# Titanfall 2 Reference aka What does it mean for the Fleet to be a Militia?
+- Evacuating noncritical personel
+- some non-military-trained peeps get a choice on whether they want to come, but notably some want to but can't and some are explicitly requested who don't want to. A career in The Fleet does not necessarily mean military commitments.
+- picking up pilots and their Close Combat Crafts triple Cs from an allied planet to bring them to the front with... spiders?(revelation space kind of spiders).
+- one goes "I am a weapon." which horrifies everyone, possible callback to the assignment?
+- delivery is put in jeopardy. it is necessary to defend oneself -> pilots are deployed and wreck the enemy vessel while the dunedins shields EAT.
+- Fuaráin mentions it might be possible to use shield impacts to harvest energy, completely sidestepping the point of the story because that just the kind of nerd my girl is.
+- delivery is done. mission successful, return to normal by pickup up regular crew. Some leave permanently, some request leave to attend military training 
