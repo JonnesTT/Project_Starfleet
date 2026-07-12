@@ -1,0 +1,4 @@
+Introduced in [[3. Power of the Auteur]], Phuix is the home of the [[Manufactura]] station known for its production network for hydrogen containers.
+
+Originally discovered by an expedition in the 22ce, which used it as a logistical way station. When the expedition retreated it left a family of three behind due to a clerical error.
+Utilizing the existing infrastructure, the family survived for apprixmately 20 years before the expedition to establish [[Manufactura]] as a hydrogen producer landed there. Naturally, the children of this family, now five in number, signaled the first ship they detected for aid, delaying the establishment of mining operations by several months while the ongoing comfort of their elders was assured.
