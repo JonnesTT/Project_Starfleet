@@ -1,0 +1,1 @@
+A naive attempt at bringing Alcubieres Warp Drive into reality. Accelerators were placed few light-years apart such that space flows towards the target.

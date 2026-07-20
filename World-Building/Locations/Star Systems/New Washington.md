@@ -1,0 +1,5 @@
+Discovered early this system was settled before the light barrier was broken. Thus, it remained isolated for nearly two hundred years during which it's culture diverged greatly from that of earth.
+Most centrally to this divide is an organisation into rigid castes. Each citizen is bread, genetically modified and technologically augmented for their role within this world. But these castes are not value judgements, as they often are on earth. No citizen of New Washington considers themselves above any other, and none who have made contact see themselves bellow.
+That apparently equity is the only reason the diplomatic core deems their social structure to not be a concern. Still, Envoys attempt to undermine it at any meeting, unsuccessfully so far.
+
+The military core, however, considers them worth observing as they are not only on the path of one of the warp highways to and from earth but have a functional accelerator.
