@@ -1,0 +1,4 @@
+Most modern [[Replicator]]s use hydrogen fusion both as energy source and to produce most of the raw atoms that make the end product up. 
+That alone should be reason for hydrogen to be valuable, but it is rarely the first reason a society establishes their hydrogen distribution system.
+[[Fusion Generators]], [[H.I.S.R Drive]]s and even [[Fusion Drives]] almost always come first. But they are an equally good reason to establish some distribution network for hydrogen. 
+In a couple of cases, eminently that of Sol, entire economies bend around hydrogen. Where fuel, oxygen, food and water once where, hydrogen takes over. Freighters float across the sea above solely to transport hydrogen.
