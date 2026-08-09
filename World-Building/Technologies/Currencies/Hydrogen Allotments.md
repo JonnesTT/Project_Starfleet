@@ -13,9 +13,9 @@ Once such a network is established, regardless of the motivation of it's institu
 Once the value of hyrogen becomes apparent and a distributor has established themselves as credible, contracts for collection take it's place.
 
 ## Relevance of The Federation 
-The primary mission of The Fleet is to establish and secure the supply of humanitarian resources. As part of this mission, it is the biggest supplier of hydrogen in federation space. And while humanitarian missions are the primary beneficiaries of the fleets infrastructure, it is no secret that this supply is a political tool.
-The trade of Hydrogen Allotments between systems keeps The Fleet critical infrastructure, regardless of the local or interstellar political situation. Removing personnel associated with this trade is almost never considered, even if other Federation installations are targeted. 
-Their primarily decentralised power structure provides further stability, as depots support nearby depots readily.
+The primary mission of The Fleet is to establish and secure the supply of humanitarian resources. As part of this mission, it is the biggest supplier of hydrogen in federation space. And while humanitarian missions are the primary beneficiaries of the fleets infrastructure, it is no secret that the diplomatic core uses this supply as a political tool.
+The trade of Hydrogen Allotments between systems keeps The Fleet critical infrastructure, regardless of the local or interstellar political situation. Removing personnel associated with this trade is almost never considered for removal, even if other Federation installations are targeted. 
+The fleets decentralised power structure and economics of interdependent reciprocity, provides further stability, as depots support nearby depots readily in emergencies.
 
 All this makes hydrogen contracts issued by the fleet trusted beyond doubt, even at the edges of Federation Space.
 
