@@ -35,3 +35,16 @@ Basically just showing how the outside of a ship would feel while the [[Warp Dri
 - delivery is put in jeopardy. it is necessary to defend oneself -> pilots are deployed and wreck the enemy vessel while the dunedins shields EAT.
 - Fuaráin mentions it might be possible to use shield impacts to harvest energy, completely sidestepping the point of the story because that just the kind of nerd my girl is.
 - delivery is done. mission successful, return to normal by pickup up regular crew. Some leave permanently, some request leave to attend military training 
+
+
+# Interrogating [[Constitution - These Rights]]
+I have doubts about the universality of these rights. For example, 
+- choices about own health and life are granted to individuals unless their judgement is questionable. 
+	- when is an individuals judgement considered not questionable?
+		- Drugs? Hard? Soft?
+		- moments of crises, likely 
+		- repetitive patterns of behaviour?
+		- excessive risk taking?
+		- are overt forms of self-harms always a sign of impaired judgement? One is tempted to believe so, therefore I must seek out ways to disprove it.
+		- Which forms of self-harm make impaired judgement the default assumption? And is that justified
+	- under which circumstances do the defined exemptions lead to situations which are not unquestionably good?

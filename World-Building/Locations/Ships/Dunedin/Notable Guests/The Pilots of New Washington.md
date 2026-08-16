@@ -4,10 +4,10 @@ Each of them identify primarily by their Designation, using callsigns informally
 
 The designations of each pilot is constructed as by the example bellow.
 
-| Birth Year            | Type of Unit | Personal Designation |
-| --------------------- | ------------ | -------------------- |
-| 387                   | MIU          | S07                  |
-| Shared among the unit |              |                      |
+| Birth Year | Type of Unit                        | Unit Designation     |
+| ---------- | ----------------------------------- | -------------------- |
+| 387        | IUM                                 | S03                  |
+|            | **I**nterface **U**nit **M**ilitary | **S**pecial number 3 |
 
 
 
@@ -15,7 +15,7 @@ Known Pilots
 
 | Designation | Callsign | Background of Callsign                                                             |
 | ----------- | -------- | ---------------------------------------------------------------------------------- |
-| S03         | Buck     | Was mocked for his high compatibility and efficacy ranking in the breeding program |
-| S04         | unknown  | unknown                                                                            |
-| S06         | Pit      | Was mockingly called Pitbull for his aggressive combat style                       |
+| 03          | Buck     | Was mocked for his high compatibility and efficacy ranking in the breeding program |
+| 04          | unknown  | unknown                                                                            |
+| 06          | Pit      | Was mockingly called Pitbull for his aggressive combat style                       |
 |             |          |                                                                                    |
