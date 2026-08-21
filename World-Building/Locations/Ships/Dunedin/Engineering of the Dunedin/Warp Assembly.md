@@ -1,4 +1,3 @@
-# Warp Assembly
 The Dunedins warp assembly is split into three principal parts. 
 The Warpfield Generator, producing an oscillating higgs field evenly around the ship to keep the free floating virtual mads shell at the appropriate distance. 
 The Positive Virtual Mass Projector, also known as "warp plough", used to anchor positive virtual mass to the forward direction. 

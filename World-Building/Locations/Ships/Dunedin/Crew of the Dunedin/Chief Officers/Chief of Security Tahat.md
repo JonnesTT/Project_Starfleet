@@ -1,4 +1,4 @@
-Tahats chosen profession as Chief of Security is to minimise damage once an individual interaction exceeds the rules of common courtesy. In such cases security personnel will likely be present during the mediation process otherwise led by the Ships Councelor and/or Ships Envoy.
+Tahats chosen profession as Chief of Security is to minimise harm once an individual interaction exceeds the rules of common courtesy. In such cases security personnel will likely be present during the mediation process otherwise led by the Ships Councelor and/or Ships Envoy.
 
 | Marker              | Entry                                                                                          |
 | ------------------- | ---------------------------------------------------------------------------------------------- |
