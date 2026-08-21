@@ -2,11 +2,15 @@ In technical terms, The Fleet is the executive organs of a mutual assistance pac
 As astronautical infrastructure grew, and state or planet sponsored projects, most prominently [[Warp Highway]]s, were canceled mid construction, most states entrusted sociopolitical aspects of intersystem organisation to The Fleet. It was the only organisation to ever reintegrate the crews of sublight colony ships back into its own workforce. Some anarchists pipedream and our greatest achievement.
 
 # Organisation
-Loss of contact is as habitable to strict hierarchies as the void is to humans. The very moment our lower classes stopped being dependent on earths betters, class itself eroded. We learned this when our own Astroid Miners rebelled. And we are both what remains of their rebellion and it's opposition to this day.
-The idea for The Fleet started in the very organisation that would later induce Kessler Syndrome to cut earth out of Sols history. And it was a simple idea. Earth does not grow our food anymore, the workers it sends are trained by us, even our doctors are our own. Earth had nothing we needed, yet it defined every institution, regulated our every move. 
-We had to come to the conclusion eventually. The enforcement if rules can make a workplace relatively save or a commune relatively welcoming. But something slips through the gaps, unless they are not just adhered to, but understood.
+Loss of contact is as habitable to extractive hierarchies as the void is to humans. The very moment our lower classes stopped being dependent on earths betters, class itself eroded and we lost generations of contact because of it.
+As a result, we have embraced a largely decentralised organisational structure.
 
-Once Admiral Yu acted out this collective tantrum of ours and we realize that he would simply have drowned us in procedure again, we took a second look. First at the
+Each ship is organised to be a state of The Fleet. Each has an Envoy who speaks for The Fleet, a Captain to oversee logistics and command the ship as well as a First Officer to lead on-shore activity and assure the ship remains commanded during dire straits. Additionally, each ship must have medical personnel to keep the crew in good health and engineers to do the same for the ship. Each ship is also assigned an internal security team to assist on-shore allies and keep the peace onboard. Some captains further request a tactical officer, although the need for this posting is assessed by the officer requested.
 
-writers comment
-Lore makes sense but where did I leave the red thread?
+Each of these people are raised into the moral standards of The Fleet and held to those standards by their colleagues. While presence and service on a ship is formally at the behest of the captain, a shunned colleague has found themself dismissed many times. Similarly does a shunned captain commonly loose their crew, with or without well reasoned mutiny. And a captain unable to organise a crew will quickly be stripped of command.
+
+Ships, like stations and other installations, then are granted to captains by generals. These generals are commonly experienced captains, who have been voted into office by captains local to their area of influence.
+It is not rare that generals are already widely approached as leaders by other captains long before they are granted the office. 
+Additionally, their flagships tend to be built in local shipyards by the very same people whom they will lead. It is therefore a sign of respect for a general to have a flagship that is large in size, newly constructed or of customized design as that shows the support of their people as much, if not more than the office in itself.
+
+Most officers undergo training at one of several academies of their chosen profession. While the standards of quality for a posting on a ship or installation tends to be high, joining The Fleet does not necessitate academic training. It does however necessitate that the aspirant is chosen by an established personality to join their staff. To found ones own staff, one must already be trusted among recipients of ones services and find oneself able to organise the necessary resources to fulfill those services.
