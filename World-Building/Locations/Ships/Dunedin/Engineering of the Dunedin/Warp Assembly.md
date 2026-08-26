@@ -1,5 +1,5 @@
 The Dunedins warp assembly is split into three principal parts. 
-The Warpfield Generator, producing an oscillating higgs field evenly around the ship to keep the free floating virtual mads shell at the appropriate distance. 
+The Warpfield Generator, producing an oscillating higgs field evenly around the ship to keep the free floating virtual mass shell at the appropriate distance. 
 The Positive Virtual Mass Projector, also known as "warp plough", used to anchor positive virtual mass to the forward direction. 
 And the Negative Virtual Mass Projector, also known as "warp screw", used to anchor negative virtual mass to the rear of the ship. 
-Combined with several structural anchors around the ships outermost parts, this creates a somewhat stable gravitational dipole. Functionally, the field imparts a directionality into the underlying spacetime causing the ship to move relative to outside space without moving in local space; bypassing the limit of lightspeed in the process.
+Combined with several anchors around the ships outermost parts, this creates a somewhat stable gravitational dipole. Functionally, the field imparts a directionality into the underlying spacetime causing the ship to move relative to outside space without moving in local space; bypassing the limit of lightspeed in the process.
