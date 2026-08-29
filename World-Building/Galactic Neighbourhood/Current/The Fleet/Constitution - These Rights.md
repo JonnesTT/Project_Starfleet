@@ -1,7 +1,7 @@
 # 1. Individual Rights
 Any individual who's personhood is accepted to exist or considered questionable is granted fundamental, irrevocable rights.
 
-Before anything else, servants of the Federation are servants of these rights. They may not infringe upon these rights. They must, to the best of their abilities, enforce these rights.
+Before anything else, servants of [[The Fleet]] are servants of these rights. They may not infringe upon these rights. They must, to the best of their abilities, enforce these rights.
 
 ## 1.1. Definitions
 ### 1.1.1. Right to Authenticity 
@@ -38,9 +38,9 @@ The bonds between individuals can be strong. So much so that harm to one to whom
 For this reason, the protection of individuals with whom one has a strong bond falls under the same protection as self-preservation.
 
 # 2. Collective Rights 
-Interconnected groups of individuals form entities capable of intelligent and self-aware behaviour. As the personhood of such entities is questionable, the Federation sees fit to grant them the same rights granted to individuals.
+Interconnected groups of individuals form entities capable of intelligent and self-aware behaviour. As the personhood of such entities is questionable, [[The Fleet]] sees fit to grant them the same rights granted to individuals.
 Exemptions as defined above apply equally to such entities.
 
-The Federation sees fit to clarify the intentions of this decision.
+[[The Fleet]] sees fit to clarify the intentions of this decision.
 As the first right, the Right to Authenticity, provides power only over the self, a cultural group or institution may not assert power over it's constituents.
 As the lifetime and health of institutions and cultural groups is defined by the number and influence of their constituents, such institutions must allow for their constituents to leave them without harming their Rights to Life or Health.

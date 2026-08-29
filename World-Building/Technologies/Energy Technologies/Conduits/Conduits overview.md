@@ -1,4 +1,4 @@
-The Federation relies on 3 key resources which need to be transported to different facilities around installations.
+Technology used and distributed by [[The Fleet]] relies on 3 key resources which need to be transported to different facilities around installations.
 
 Matter, transported as hydrogen, Energy, in electron-potential and Anti-Matter, most commonly transported in Positrons but in some cases anti-hydrogen is used instead.
 

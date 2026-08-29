@@ -1,4 +1,4 @@
-H1-Crystals are a form of hydrogen storage that is favoured by the Federation for its extreme stability.
+H1-Crystals are a form of hydrogen storage that is favoured by members of [[The Fleet]] for its extreme stability.
 The term generally refers to an ever evolving range of technologies of crystalline structures designed to retain hydrogen atoms unless exposed to specific environmental conditions.
 
 The first H1-Crystal were attempts at maintaining hydrogen in a solid state without active cooling. As such contraptions used to reduce the to a total hydrogen density much too low for practical applications while also requiring constant energy drain.
