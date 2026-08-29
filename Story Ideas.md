@@ -48,3 +48,11 @@ I have doubts about the universality of these rights. For example,
 		- are overt forms of self-harms always a sign of impaired judgement? One is tempted to believe so, therefore I must seek out ways to disprove it.
 		- Which forms of self-harm make impaired judgement the default assumption? And is that justified
 	- under which circumstances do the defined exemptions lead to situations which are not unquestionably good?
+
+
+# Interrogating the Relationship between [[The Fleet]] and [[The Institute for Uplift]]
+[[The Institute for Uplift]] considers [[The Fleet]] as a whole a society under its protection. Some of their Paterspeciae consider [[The Fleet|it]]s contributers a breeding ground, others consider its structure of openness an unrivaled experiment, that would never grow from its own structure. All members of [[The Institute for Uplift|The Institute]] agree that [[The Fleet]] must be allowed to continue as long as its institutional power permits. Then it must be absorbed to allow the potential of all it's contributor states to shape their vassals.
+
+[[The Fleet]] considers [[The Institute for Uplift]] as a threat to its ideology. The worst kind of enemy, its mere existence provides proof that the order of [[The Fleet]] is not the only one that may survive deep time. But [[The Fleet]] is [[The Fleet]] is [[The Fleet]], and thus, [[The Institute for Uplift]] has a right to exist for as long as it's members will perpetuate it. But so does [[The Fleet]], and it's contributers work tirelessly to perpetuate it's ideals even under members of [[The Institute for Uplift|The Institute]]. Thus, formally, [[The Institute for Uplift|The Institute]] allows any of its members to emigrate to the territory of [[The Fleet]] just as it eats at [[The Fleet]]s territory.
+
+[[The Institute for Uplift]] is comprised of many sapient races. Most derived of humans through various genetic enhancement processes and eugenics programs. But among it's leading ranks are also starfaring Dolphins, institutional Chimps (sometimes referred to as Imps)
