@@ -8,4 +8,4 @@ If they have no own propulsion, they will find themselves tumbling once the bubb
 They're commonly used for communication between neighbouring systems or weapons technologies.
 
 # PWC (Powered Warp Coasters)
-PWCs have both a NVMP and a VMP, a warp plough and screw, but no expensive warpfield generator. This allows them to travel extremely long distances at warp speed. 
+PWCs have both a NVMP and a VMP, a warp plough and screw, but no expensive warpfield generator. This allows them to travel extremely long distances at warp speed.
