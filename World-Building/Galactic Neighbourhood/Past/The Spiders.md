@@ -7,3 +7,7 @@ They attacked a warmongering empire of a dozen systems, a separatist system that
 The Spiders were far more advanced in the basic sciences than any of these, yet each of these societies had been built around war, around conquest, around devastation, around survival. They had no chance, and they needed none.
 Some spiders fled. A few of them are federation ships and stations now, all with stellar service records. A few removed the mere extra limbs and began to mimic humanity again. A few have become doctors and inventors. Many more still live on the hospitable worlds we have given them, make them less hospitable by the day.
 The ones who fought however are gone now, or I suppose they will never be gone. They lead their new enemies into their homeland. A three pronged chase through almost a hundred systems ended where the spiders collected all the discovered they valued. And in an instant all of it dissolved. Their home, a hundred settled worlds once terraformed, three attacking fleets and the homeworlds of the attackers all crumbled into dust. Dust that seems to have memory, that forms faces, entire people to speak with us. Dust we now know as [[The Grey]].
+
+
+Authors Notes:
+These were heavily inspired by both The Spiders and The Conjoiners of Alistair Reynolds Revelation Space.
