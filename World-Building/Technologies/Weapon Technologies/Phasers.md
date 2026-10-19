@@ -16,6 +16,10 @@ When used on inanimate objects, phasers create different phenomena based on the 
 
 The set to standard wavelengths, the electromagnetic beam excites electric conductors. Set to long wavelengths it can do the same with water and liquids with bipolar molecules. These then heat up rapidly.
 
-Set to standard amplitudes, phasers have no effect on non-metallic solids and lipophilic liquids. Thought many naturally occurring solids contain metallic particles or water bipolar molecules, these often allow some heat to be absorbed.
+Set to standard amplitudes, phasers have no effect on nonmetallic solids and lipophilic liquids. Thought many naturally occurring solids contain metallic particles or water bipolar molecules, these often allow some heat to be absorbed.
 
 Strong Phasers such as those used in ship armaments can also disrupt chemical bonds within the target. This can lead to damage to DNA, liquefy or even vaporise solids.
+
+# Countermeasures
+The most common countermeasure is a diffuse plasma shield. By expelling charged particles and holding them in a shell around the ship using the electromagnets of the ships shield, an EM shielding can be achieved. This will absorb a range of wavelengths based on the particles and depth of the plasma cloud.
+Depending on the phaser frequency, layers of conductive materials built into a structure itself may also absorb the EM waves, converting them to heat in the process.
