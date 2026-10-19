@@ -1,4 +1,4 @@
-Phasers produce a powerful electromagnetic wave which is commonly focused by the inbuilt targeting systems to either affect the whole target or an individual part of its electrical infrastructure.
+Phasers produce a powerful electromagnetic waves which are commonly focused by an inbuilt targeting system to either affect the whole target or an individual part of its electrical infrastructure.
 
 # Targeting Electric Infrastructure
 When the target is a ship or installation,
