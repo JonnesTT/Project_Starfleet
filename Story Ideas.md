@@ -1,7 +1,7 @@
 # Exploration of a ghost ship
 points to include
 - ghost ships likely aren't rare due to autonomous systems
-- ghost ships likely are dangerous due to... autnonomous systems
+- ghost ships likely are dangerous due to... autonomous systems
 - ghost ships very possibly still fulfill their main purpose... due to... autonomous systems
 - in short, autonomous systems :D
 
@@ -10,10 +10,10 @@ One of the main points of TNG I wanted to include is the post scarcity future. B
 
 Some questions I can ask myself:
 - When and why trade?
-	- Individual trade can be fun. If it's not for survival.
+	- Individual trade can be fun. If it's not just for survival.
 	- Governments may "trade" among each other to supply their operations (even if payment is "only" in goodwill and political posturing)
 - Seconary effects of trade?
-- Which cargo needs moving?
+- Which cargo needs moving when you can magic food and most gear out of nowhere?
 	- Lowball here: Energy Storage
 	- Somewhat low ball: Exotic Matter
 	- "Authentic" craftsmanship
@@ -22,7 +22,7 @@ Some questions I can ask myself:
 		- computation material? 
 		- Phazor cristals?
 	- Organics, like species. 
-		- Replicator can only make snapshots of animals. Basically they're fresh but not alive. I like that one
+		- Replicator takes some time to assemble cells, during which cells are already beginning to decay. Complex life won't come out of a replicator alive
 
 # The Alcubierre Experience
 Basically just showing how the outside of a ship would feel while the [[Warp Drive]] is active.
