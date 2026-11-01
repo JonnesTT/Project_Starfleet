@@ -1,13 +1,13 @@
 # Notice 
 This was setup in Obsidian. While the GitHub Markdown viewer is mostly sufficient to read these stories, the worldbuilding segment may become more comfortable to navigate with Obsidian.
+
 # What is Project Starfleet?
-
-In simple terms, it's an attempt to write Star Trek: The Next Generation style stories, but with my personal vibe of humanism. Of course this isn't canonical. Considering I have some ideas for how The Fleet should be re-structured, I assume it never will.
-
-I've chosen to write this mostly through Log entries. I assume it will add some other formats as well, but those are planned yet.
+In simple terms, it's an attempt to write *Star Trek: The Next Generation* style stories, but:
+1. Humanitarian aid takes the place of exploration. The goal of The Fleet is not to boldly go where no-one has gone before, but to boldly befriend those who have nothing left to give. Naturally, there are exploration ships, I do have hope that we will run out of our own people in need, after all. There is, however, much more infrastructure in *building* that future.
+2. No inherent militarism. The Fleet has members who will chose to die and kill for it, but that is not a commitment we need to ask of every astronomer or biologist who dares set foot on a starship. As such, only a fraction of The Fleet will be expected to risk their lives beyond the inherent dangers of the missions they themselves choose.
+3. This is **our** future. Everything portrayed here is derived from scientific knowledge, or hypotheses earnestly brought forth, and worked on, by real scientists. That does, unfortunately, mean a minimum of aliens so far and some Trek technologies simply don't exist. But it also means that everything written about here can be expected to be real, eventually.
 
 This is currently a Side-Project for me. A welcome Diversion but nothing more.
-
 
 # License
 Any and all content provided in the Project Starfleet repository is released under CC-BY-SA 4.0.
