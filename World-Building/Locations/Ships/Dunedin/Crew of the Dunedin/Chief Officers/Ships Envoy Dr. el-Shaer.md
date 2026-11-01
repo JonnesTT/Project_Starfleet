@@ -9,5 +9,5 @@ His dream is to serve on a purely exploration focused vessel and to one day make
 | Second Name         | al-Shaer                                               |
 | Sex                 | Male                                                   |
 | Gender              | Male                                                   |
-| Representation      | Human Male, Shows his lebanese heritage in accessories |
+| Presentation        | Human Male, Shows his lebanese heritage in accessories |
 | Cultural Background | Lebanese                                               |
