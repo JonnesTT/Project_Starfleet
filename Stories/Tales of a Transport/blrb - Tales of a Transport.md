@@ -1,0 +1,1 @@
+The far future is is a world of unnatural crimes and wonders barely thinkable. But it also is a world of unnatural crimes to be prevented and wonders which have to be maintained. The Dunedin, a Starship with the simple mission of transporting the materials for this maintenance, explores not the dreams of what we may find, but the dreams of what we may build.

@@ -4,12 +4,12 @@ loosely anarchic, based on respect for expertise
 Purpose:
 Communication and Peacekeeping. Think UN but well, both functioning and actively in pursuit of peace (aka will use force if necessary)
 
-The Highest Rank of the Fleet is shared by a group of Diplomats
+The Highest Rank of [[The Fleet]] is shared by a group of Diplomats
 The purpose of the Diplomatic core is to foster peace and free exchange of information. They are in many cases more active in this pursuit, taking on several of the studies considered humanities as diversions and interfering with the internal affairs of other cultures.
 
 Bellow them serve 
-- Generals, whose primary duty is the upkeep and coordination of the fleet (aka logistics) in both peaceful and hostile action
-- Colonialists, who keep both spaceborn and planetary habitats including any and all drydocks of the fleet
+- Generals, whose primary duty is the upkeep and coordination of [[The Fleet]] (aka logistics) in both peaceful and hostile action
+- Colonialists, who keep both spaceborn and planetary habitats including any and all drydocks of [[The Fleet]]
 - Scholars, compiling, maintain and disseminate repositories of knowledge in several mediums and through several channels
 
 
@@ -19,7 +19,7 @@ Technology
 The most notable differences in technology are 
 - atom accurate 3d printers, which can reproduce known atomic patterns, 
 - an higgs split engine, H.S.E., allowing for the storage of vast amounts of energy in matter anti-matter pairs and 
-- the at this point ancient EX-0, producing some kinds of exotic matter necessary to accomplish many of the technological wonders of the fleet.
-- Several space drive technologies, best well known is the TRAD (temporally referenced anchor drive), as well as conventional gravity based warp drives and several minor additions like  (electron positron annihilation) drives used to propel small ships highly efficiently.
+- the at this point ancient X-0, producing some kinds of exotic matter necessary to accomplish many of the technological wonders of [[The Fleet]].
+- Several space drive technologies, best well known is the T.R.A.D. (temporally referenced anchor drive), as well as conventional gravity based warp drives and several minor additions like  (electron positron annihilation) drives used to propel small ships highly efficiently.
 
 so basically it's trek but with a less military power structure and less "space magic" handwaving. The statement of this worldbulding boils down to: "Anarchism works when we don't have to f* each other over" and "science is fun actually".

@@ -1,0 +1,1 @@
+The far future remains long ahead. It is yet out of reach, but reaching out may be exactly the act which brings us closer. Project Starfleet is about reaching out. To extrapolate from known principals of both the social and natural sciences, through hypothetical technologies and the goals we share to the utmost extreme.

@@ -1,2 +1,2 @@
-- A shipyard of the federation
+- A shipyard of [[The Fleet]]
 - Has recreations facilities to entertain ship crews during repairs, including an open market.

@@ -1,0 +1,3 @@
+Named after [Christiaan Barnard](https://en.wikipedia.org/wiki/Christiaan_Barnard "Christiaan Barnard"), the Barnand Institute specialises in replacing failing organs and otherwise unrecoverable limbs, as well as the long term recovery strategies.
+
+It contains a small surgery wing known for it's exemplary training of nervous and circulatory reattachment. Much larger however are the Physiotherapy and Biofabrication Wings, both of which are sometimes referenced for their quality, but their internal culture is generally in opposition of non-proven processes. Thus, they aren't known for revolutionary techniques.

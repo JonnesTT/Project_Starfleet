@@ -1,0 +1,21 @@
+In technical terms, The Fleet is the executive organs of a mutual assistance pact formed by many human colonies.
+As astronautical infrastructure grew, and state or planet sponsored projects, most prominently [[Warp Highway]]s, were canceled mid construction, most states entrusted sociopolitical aspects of intersystem organisation to The Fleet. It was the only organisation to ever reintegrate the crews of sublight colony ships back into its own workforce. Some anarchists pipedream and our greatest achievement.
+
+# Organisation
+Loss of contact is as habitable to extractive hierarchies as the void is to humans. The very moment our lower classes stopped being dependent on earths betters, class itself eroded and we lost generations of contact because of it.
+As a result, we have embraced a largely decentralised organisational structure.
+
+Each ship is organised to be a state of The Fleet. Each has an Envoy who speaks for The Fleet, a Captain to oversee logistics and command the ship as well as a First Officer to lead on-shore activity and assure the ship remains commanded during dire straits. Additionally, each ship must have medical personnel to keep the crew in good health and engineers to do the same for the ship. Each ship is also assigned an internal security team to assist on-shore allies and keep the peace onboard. Some captains further request a tactical officer, although the need for this posting is assessed by the officer requested.
+
+Each of these people are raised into the moral standards of The Fleet and held to those standards by their colleagues. While presence and service on a ship is formally at the behest of the captain, a shunned colleague has found themself dismissed many times. Similarly does a shunned captain commonly loose their crew, with or without well reasoned mutiny. And a captain unable to organise a crew will quickly be stripped of command.
+
+Ships, like stations and other installations, then are granted to captains by generals. These generals are commonly experienced captains, who have been voted into office by captains local to their area of influence.
+It is not rare that generals are already widely approached as leaders by other captains long before they are granted the office. 
+Additionally, their flagships tend to be built in local shipyards by the very same people whom they will lead. It is therefore a sign of respect for a general to have a flagship that is large in size, newly constructed or of customized design as that shows the support of their people as much, if not more than the office in itself.
+
+
+While the standards of quality for a posting on a ship or installation tend to be high, joining The Fleet does not require any specific training path. It does however necessitate that the aspirant is chosen by an established personality to join their staff. The difficulty of this depends largely on local employment and local quality of personnel. Not rarely have aspirants settled into lower income communities to raise their chances of becoming useful to members of The Fleet. Those who do almost always have a positive effect on the community they joined.
+Only few manage to score position as chief, lead or command when they enter The Fleet, but it has happened. In those cases, a local specialist has already organised a team at an ongoing workplace before requesting their posting together. Among those, humanitarian and academic efforts are hugely preferred, though under stress the fleet may hire less lauded members of communities under supervision programs.
+
+As a result, local installations of The Fleet are often used by aspirants to enter The Fleets system of reciprocity. Such installations tend to offer internship and tutoring programs to personnel without ties to The Fleet as a way of facilitating recruiting.
+Most commonly, aspirants invited onto ships have already undergone such basic training and service at a small number of facilities. Their first couple of months onboard are however still both a litmus test and training as ships offer much less reprieve from ones colleagues.

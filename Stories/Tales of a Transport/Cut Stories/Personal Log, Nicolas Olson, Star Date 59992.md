@@ -1,0 +1,2 @@
+I have been offered another ship to command. [[Admiral Mnkandla]] seems to want to keep me in service by any means possible. She actually heeded my wish. No more patrols, no more combat. 
+I've been granted a transport. Unfortunately, it won't be just any transport but an experimental drive system. A combination between Warp Drive and Gravitational Deflector. According to her, my, and I quote, "ability to work with engineers under unbecoming conditions", has to be utilized somewhat.

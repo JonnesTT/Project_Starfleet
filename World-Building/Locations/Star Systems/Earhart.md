@@ -1,0 +1,1 @@
+Named after pilot Amelia Earhart the Earhart System is suspected to carry one of few planets believed to have independently spawned life.
