@@ -8,9 +8,9 @@ Institutions most commonly agree upon exchanges with local representatives at fe
 # Background
 Most modern [[Replicator]]s use hydrogen fusion both as energy source and to produce most of the raw atoms that make up the Replicated product. 
 That alone should be reason for hydrogen to be valuable, but it is rarely the first.
-[[Fusion Generators]], [[H.I.S.R Drive]]s and even [[Fusion Drives]] almost always become the reason for hydrogen distribution networks long before [[Replicator]]s hit the scene.
-Once such a network is established, regardless of the motivation of it's institution, hydrogen quickly becomes the primary measure of value for their spacefaring subculture.
-Once the value of hyrogen becomes apparent and a distributor has established themselves as credible, contracts for collection take it's place.
+[[Fusion Generators]], [[H.I.S.R Drive]]s and even [[Fusion Drives]] almost always become the reason for hydrogen distribution networks long before [[Replicator]]s became commonplace.
+Once such a network is established, regardless of the motivation of its institution, hydrogen quickly becomes the primary measure of value for their space faring subculture.
+Once the value of hydrogen becomes apparent and a distributor has established themselves as credible, contracts for collection take it's place.
 
 ## Relevance of [[The Fleet]] 
 The primary mission of [[The Fleet]] is to establish and secure the supply of humanitarian resources. As part of this mission, it is the biggest supplier of hydrogen in federation space. And while humanitarian missions are the primary beneficiaries of the fleets infrastructure, it is no secret that the diplomatic core uses this supply as a political tool.
@@ -30,5 +30,8 @@ These freighters most commonly issue contracts for hydrogen deliver at specific 
 
 
 Some idea: unused
-In a couple of cases, prominently that of Sol, entire economies bend around hydrogen. Where fuel, oxygen, food and water once where, hydrogen takes over. Freighters, previously loaded with a minagerie of goods float across the sea above solely to transport hydrogen and planetary populations loose economic relevance within weeks. 
+In a couple of cases, prominently that of Sol, entire economies bend around hydrogen. Where fuel, oxygen, food, and water once where, hydrogen takes over. Freighters, previously loaded with a menagerie of goods float across the sea above solely to transport hydrogen and planetary populations loose economic relevance within weeks. 
 The economic fallout of replicators discovered during the space age cannot be understated, but they also always form an anchor through their
+
+
+Miscellaneous 

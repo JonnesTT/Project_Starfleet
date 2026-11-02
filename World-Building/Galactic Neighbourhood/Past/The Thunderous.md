@@ -4,3 +4,7 @@ The Thunderous once were a small empire at the edge of space settled by [[The Sp
 
 What remains of them now is a refugee fleet. Periodically they strike, violently incursions through loosely defended space, stealing and pillaging as they go. 
 But they are also weak now, and knowing they are weak they let themselves be predictable. They must soon learn that the quarantines around [[The Grey]] will remain in place, that they will not leave their dead homes as conquerors. Or maybe their strength will change form.
+
+# Authors Notes
+I'm not quite happy with this culture yet. 
+This culture was inspired somewhat by The Cabal of the [Destiny Series of games](https://en.wikipedia.org/wiki/Destiny_(video_game_series))

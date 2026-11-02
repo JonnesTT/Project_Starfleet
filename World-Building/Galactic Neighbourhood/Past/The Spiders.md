@@ -9,5 +9,5 @@ Some spiders fled. A few of them are federation ships and stations now, all with
 The ones who fought however are gone now, or I suppose they will never be gone. They lead their new enemies into their homeland. A three pronged chase through almost a hundred systems ended where the spiders collected all the discovered they valued. And in an instant all of it dissolved. Their home, a hundred settled worlds once terraformed, three attacking fleets and the homeworlds of the attackers all crumbled into dust. Dust that seems to have memory, that forms faces, entire people to speak with us. Dust we now know as [[The Grey]].
 
 
-Authors Notes:
-These were heavily inspired by both The Spiders and The Conjoiners of Alistair Reynolds Revelation Space.
+# Authors Notes:
+These were heavily inspired by both The Spiders and The Conjoiners of the [Revelation Space series by Alistair Reynolds](https://en.wikipedia.org/wiki/Revelation_Space_series)

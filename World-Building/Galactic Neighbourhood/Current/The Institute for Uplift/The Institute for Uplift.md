@@ -11,3 +11,6 @@ From our first encounters, we know that the institute seeks to integrate existin
 # Leading Races of [[The Institute for Uplift|The Institute]]
 [[The Institute for Uplift]] is comprised of many sapient races. Most we have met are derived from humans through various genetic enhancement and eugenics programs. But we have also had the pleasure to encounter star faring Dolphins, Bureaucrat Chimps and an infantry force of Elephants and Gorillas. 
 It seems the Earthling races are rather young within its order, as their Envoys take much more alien shapes. An ossified tree, it's glowing, flowering head creaking legible words only to communicate with us, was last to lead a mission of peace. In its order a strange clade of nine legged insects, symbiotically and technologically augmented, took the role of computer or perhaps bureaucrat. The amorphous fluid carrying the solid envoy, as we were told was a young species raised to provide them services they can no longer provide for themselves.
+
+# Authors Notes
+This culture was heavily inspired by The Institute of Uplift from the [Uplift Universe by David Brin](https://en.wikipedia.org/wiki/Uplift_Universe) 

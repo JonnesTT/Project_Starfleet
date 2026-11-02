@@ -4,4 +4,4 @@ As nanites are considered highly infectious until proven otherwise, The Grey was
 
 Around Star Date 38000, The Grey requested to speak to an envoy.
 Around Star Date 38010, it requested to speak to a general.
-On Star Date 38011 General Shafigulin publicly declared that The Grey is to be supported with exports of technology and highly trained volunteers.
+On Star Date 38011 [[General Shafigulin]] publicly declared that The Grey is to be supported with exports of technology and highly trained volunteers.

@@ -15,3 +15,7 @@ These ships also possess [[Phaser]] emitters on both the core and on the inner s
 
 # Allegiance
 The Pentagonals are a member of [[The Institute for Uplift]]. Not much is known about their political goals, except that some of their species wish to pursue a relationship with [[The Fleet]] and some wish to prevent it. Factions mark their ships in luminescent paint of several colours, some not detectable by the human eye.
+
+
+# Authors Notes
+These were inspired by the Eridians of Project Hail Mary. One of the funniest books I've read in ages.

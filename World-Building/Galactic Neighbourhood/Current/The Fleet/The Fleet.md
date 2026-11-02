@@ -19,3 +19,7 @@ Only few manage to score position as chief, lead or command when they enter The 
 
 As a result, local installations of The Fleet are often used by aspirants to enter The Fleets system of reciprocity. Such installations tend to offer internship and tutoring programs to personnel without ties to The Fleet as a way of facilitating recruiting.
 Most commonly, aspirants invited onto ships have already undergone such basic training and service at a small number of facilities. Their first couple of months onboard are however still both a litmus test and training as ships offer much less reprieve from ones colleagues.
+
+
+# Authors Notes
+This culture was heavily inspired by The Federation from [Star Trek: The Next Generation](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation), as well as the ideals of the federation portrayed in [Star Trek: Voyager](https://en.wikipedia.org/wiki/Star_Trek:_Voyager)
