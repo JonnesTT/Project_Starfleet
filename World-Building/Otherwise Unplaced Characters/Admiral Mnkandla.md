@@ -9,4 +9,3 @@
 | Gender              | Female                                              |
 | Presentation        | Female                                              |
 | Cultural Background | Shona (apparently a culture in and around Zimbabwe) |
-| Family Background   |                                                     |

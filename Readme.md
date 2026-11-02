@@ -7,7 +7,7 @@ In simple terms, it's an attempt to write *Star Trek: The Next Generation* style
 2. No inherent militarism. The Fleet has members who will chose to die and kill for it, but that is not a commitment we need to ask of every astronomer or biologist who dares set foot on a starship. As such, only a fraction of The Fleet will be expected to risk their lives beyond the inherent dangers of the missions they themselves choose.
 3. This is **our** future. Everything portrayed here is derived from scientific knowledge, or hypotheses earnestly brought forth, and worked on, by real scientists. That does, unfortunately, mean a minimum of aliens so far and some Trek technologies simply don't exist. But it also means that everything written about here can be expected to be real, eventually.
 
-This is currently a Side-Project for me. A welcome Diversion but nothing more.
+This is currently a Side-Project for me. A welcome diversion but nothing more.
 
 # License
 Any and all content provided in the Project Starfleet repository is released under CC-BY-SA 4.0.
