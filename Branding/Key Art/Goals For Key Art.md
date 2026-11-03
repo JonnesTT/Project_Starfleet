@@ -1,0 +1,9 @@
+## Key art must invoke the spiritual successors
+Because the name means nothing and it has no audience of it's own. I may, however, supply the general Trek audience with philosophical ideas, which commercially produced Trek content is not able represent.
+
+For this purpose, I've based it on the coms chip from Star Trek: The Next Generation. Notably evoking the iconic rounded brass chevron, treks symbol of progress. I sure hope Disney doesn't find out hehe
+
+## Key art must imply the change
+DS9 has shown many flaws in the Federations ideological foundations. And Voyager repeatedly makes than argument that, beyond the, frankly asinine, prime directive and the contemporary scientism DS9 critiqued, there remains a political and sociological ideal which trek can represent. Preemptive cooperation as a way of building bridges. I've tried my best to extract and refine this sociological ideal, and, granted, to refine the scientism. So I should represent that.
+
+The eight pointed star stands in for the eight recognised planets of the solar system (booo, excluding stable binaries, booo. Those are such cool stellar bodies!). These are all shown to be equal, except for one. That one represents earth, the birthplace of humanity and largest indirect profiteer of the expansion into space. The founding of [[The Fleet]] from Project Starfleet was a peace offering from the earthbound population to the population of their colonies around the solar system. As such, the streak which represents earth is both honoured to be closest to the chevron representing the fleet, and humbled by being covered by this symbol. This symbolizes that [[The Fleet]] was always meant to eclipse earth. And in time, it has eclipsed the entire solar system.
