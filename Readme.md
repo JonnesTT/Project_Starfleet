@@ -17,8 +17,10 @@ It means that you can do anything with it! You may print it in your magazine, tr
 
  there are conditions!
 1. You must attribute the creator of this content! 
-   If you are unsure of who to attribute as author of any specific work, or mashup material found in this repo, you may omit the author. Please refer to the example attribution underneath every story.
+   If you are unsure of who to attribute as author of any specific work, or mashup material found in this repo, you may omit the author.
    The following is an example attribution as written for the Tales of a Transport story 1. Practice:
-	*1. Practice - Tales of a Transport* a Project Starfleet story by Johannes "JonnesTT" Berger found on https://github.com/JonnesTT/Project_Starfleet, CC-BY-SA 4.0 (https://github.com/JonnesTT/Project_Starfleet/tree/License)
+
+*1. Practice - Tales of a Transport* a Project Starfleet story by Johannes "JonnesTT" Berger found on https://github.com/JonnesTT/Project_Starfleet, CC-BY-SA 4.0 (https://github.com/JonnesTT/Project_Starfleet/tree/License)
+
 2. Any and all adaptations of material found in this repository must be made available under the same license unless an individual agreement has been made with its author. That means whatever you make this content into, it must be available for others to adapt or share under the same conditions.
 
