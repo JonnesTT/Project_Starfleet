@@ -1,2 +1,5 @@
-- A shipyard of [[The Fleet]]
+- Often abbreviated to Magellan since the systems authorities are one of the few left behind by the "Magellan" gardener ship who have not chosen to change the name of their home.
+- The 17th solar system settled by a gardener ship "Magellan" while it was on its way to the Magellan Cluster.
+- They have the right to choose a more unique name. Records show that they consider the name a celebration of exploration.
+- Contains the largest dedicated [[The Fleet|Fleet]] shipyard of their region of space. Most of its infrastructure was a leftover from repairs and modifications done on the "Magellan".
 - Has recreations facilities to entertain ship crews during repairs, including an open market.
