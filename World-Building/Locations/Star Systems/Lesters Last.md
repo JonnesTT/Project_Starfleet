@@ -5,6 +5,8 @@
 
 # Sociology
 - split in 34 communes each no more than 150 person strong
+- communes are represented by a "paterfamilias" always a male, or at least masc presenting individual with at the very least first visible traces of age.
+- Each of the commune is organised mildly differently. These differences do pose diplomatic issues, but they also facilitate the movement of genetic material; the exchange of young adults between new communities.
 - coalition requires unanimous consent for any involvement of external powers
 - coalition between them was founded during 
 - Regha Takghis studied their political situation in depth and concluded that the offers of [[The Fleet]], while well intentioned, have forced them into a coalition much too tight for their current level of trust
